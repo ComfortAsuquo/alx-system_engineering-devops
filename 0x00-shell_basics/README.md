@@ -1,1 +1,1 @@
-This file shows us how to write bash scripts
+display contents of a directory
