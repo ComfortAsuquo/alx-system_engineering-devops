@@ -1,2 +1,1 @@
-A script that prints Hello World
-avoiding special characters
+display the content of a file
