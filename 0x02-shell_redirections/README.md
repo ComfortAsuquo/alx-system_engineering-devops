@@ -4,3 +4,4 @@ display the content of a file
 displaying the contents of two files
 display last 10 lines of a file
 display first five lines of a file
+write into a file with special characters
