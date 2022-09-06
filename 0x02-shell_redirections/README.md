@@ -8,3 +8,4 @@ write into a file with special characters
 standard output to standard input
 duplicate the last line of iacta
 delete a particular file type in a directory
+script to count directories and subdirectories
