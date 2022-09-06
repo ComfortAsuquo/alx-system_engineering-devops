@@ -10,3 +10,4 @@ duplicate the last line of iacta
 delete a particular file type in a directory
 script to count directories and subdirectories
 create new lines
+script that takes a list of words as input and prints only words that appear exactly once
