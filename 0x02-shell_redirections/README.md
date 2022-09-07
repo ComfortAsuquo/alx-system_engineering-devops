@@ -17,3 +17,4 @@ count that word
 display lines in the file
 display all lines of a file starting with afile
 change characters A and c from input to Z and e
+remove c from a certain directory
