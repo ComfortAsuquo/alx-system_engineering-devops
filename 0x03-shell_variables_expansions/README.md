@@ -10,3 +10,4 @@ arithmetic expansion
 arithmetic expansion
 binary to decimal conversion
 print all combinations of two letters
+a script that prints a number with two decimal places
