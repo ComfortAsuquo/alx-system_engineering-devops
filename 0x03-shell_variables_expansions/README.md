@@ -7,3 +7,4 @@ create a local variable
 create a global variable
 arithmetic expansion
 arithmetic expansion
+arithmetic expansion
