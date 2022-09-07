@@ -9,3 +9,4 @@ arithmetic expansion
 arithmetic expansion
 arithmetic expansion
 binary to decimal conversion
+print all combinations of two letters
