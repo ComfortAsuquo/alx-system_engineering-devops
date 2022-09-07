@@ -6,3 +6,4 @@ list environment variables
 create a local variable
 create a global variable
 arithmetic expansion
+arithmetic expansion
