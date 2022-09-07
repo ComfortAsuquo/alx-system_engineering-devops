@@ -8,3 +8,4 @@ create a global variable
 arithmetic expansion
 arithmetic expansion
 arithmetic expansion
+binary to decimal conversion
