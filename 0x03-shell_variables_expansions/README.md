@@ -5,3 +5,4 @@ count the number of directories in a path
 list environment variables
 create a local variable
 create a global variable
+arithmetic expansion
